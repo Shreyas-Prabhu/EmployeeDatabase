@@ -1,5 +1,5 @@
 # EmployeeDatabase
-CRUD operation using MySQL, GO, GIN, GORM
+CRUD operation using MySQL, GO, GIN, GORM, logrus. Unit test- testify
 
 DESCRIPTION:
 This application contains 5 endpoints as described below:
